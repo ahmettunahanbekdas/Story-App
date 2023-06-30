@@ -7,4 +7,4 @@ The app will tell a story depending on what the user chooses and can be fleshed 
 
 
 # Screen Recording
-https://github.com/ahmettunahanbekdas/Story-App/assets/97003033/22d28bab-8397-498b-af2d-0725f3624810
+https://github.com/ahmettunahanbekdas/Story-App/assets/97003033/fe5c1332-e4e5-4ce0-af2b-b3f60bf5f799
